@@ -1,0 +1,15 @@
+D:\Dot Net\Workshop\Task3\bin\Debug\net10.0\Task3.exe
+D:\Dot Net\Workshop\Task3\bin\Debug\net10.0\Task3.deps.json
+D:\Dot Net\Workshop\Task3\bin\Debug\net10.0\Task3.runtimeconfig.json
+D:\Dot Net\Workshop\Task3\bin\Debug\net10.0\Task3.dll
+D:\Dot Net\Workshop\Task3\bin\Debug\net10.0\Task3.pdb
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfoInputs.cache
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.AssemblyInfo.cs
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.csproj.CoreCompileInputs.cache
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.sourcelink.json
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.dll
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\refint\Task3.dll
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.pdb
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\Task3.genruntimeconfig.cache
+D:\Dot Net\Workshop\Task3\obj\Debug\net10.0\ref\Task3.dll
