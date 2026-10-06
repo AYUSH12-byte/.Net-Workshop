@@ -11,6 +11,6 @@ class Program
         Console.WriteLine($"Perimeter = {Circle.CalculatePerimeter(radius)}");
 
         // Uncomment this line to see the compilation error:
-         Circle.PI = 3.14159;
+        //Circle.PI = 3.14159;
     }
 }
